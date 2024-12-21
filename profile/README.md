@@ -13,7 +13,7 @@ Evolution X aims to provide users with a Pixel-like feel at first glance, with a
 - Support for numerous Android devices
 
 ## Currently supported Android versions
-- Android 15
+- Android 15 QPR1
 - Android 14 QPR3
 
 ## Important Links
